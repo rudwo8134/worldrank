@@ -8,6 +8,9 @@ const Container = styled.div`
   height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr auto;
+
+  max-width:1100px;
+  margin: 0 auto;
 `;
 
 const Headercomponents = styled.header`
