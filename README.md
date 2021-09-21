@@ -15,4 +15,7 @@ Name:Eric Shin
 Email: rudwo8134@gmail.com
 
 
-Sep, 20 , 2021
+### time line
+- Sep, 20 , 2021
+  1. add the page and working with api
+  <b>need to add the Responsive desing still working on it</b>
